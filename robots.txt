@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yuxiaohh3.github.io/hongtaoyinab/sitemap.xml
